@@ -1,0 +1,20 @@
+---
+title: "dk の記事一覧"
+---
+
+# dk の記事一覧
+
+<ul class="tag-post-cards">
+  <li class="tag-post-card">
+    <a href="/posts/blog2" class="tag-post-link">
+      <div class="tag-post-thumbnail-wrapper">
+        <img src="/images/icon.jpeg" alt="Test Post 2 サムネイル" class="tag-post-thumbnail" />
+      </div>
+      <div class="tag-post-content">
+        <h3 class="tag-post-title">Test Post 2</h3>
+        <time class="tag-post-date">2025-07-01</time>
+        <p class="tag-post-excerpt">Title 2  誰でも簡単においしく作れるレシピ動画を毎日お届けします</p>
+      </div>
+    </a>
+  </li>
+</ul>

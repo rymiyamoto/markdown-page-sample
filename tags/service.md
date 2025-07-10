@@ -1,14 +1,13 @@
+---
+title: "service の記事一覧"
+---
 
-# ようこそ
-
-テストのページです
-
-## 最新記事
+# service の記事一覧
 
 <ul class="tag-post-cards">
   <li class="tag-post-card">
     <a href="/posts/blog3" class="tag-post-link">
-    <div class="tag-post-thumbnail-wrapper">
+      <div class="tag-post-thumbnail-wrapper">
         <img src="/images/icon.jpeg" alt="Test Post 3 サムネイル" class="tag-post-thumbnail" />
       </div>
       <div class="tag-post-content">
@@ -20,25 +19,13 @@
   </li>
   <li class="tag-post-card">
     <a href="/posts/blog2" class="tag-post-link">
-    <div class="tag-post-thumbnail-wrapper">
+      <div class="tag-post-thumbnail-wrapper">
         <img src="/images/icon.jpeg" alt="Test Post 2 サムネイル" class="tag-post-thumbnail" />
       </div>
       <div class="tag-post-content">
         <h3 class="tag-post-title">Test Post 2</h3>
         <time class="tag-post-date">2025-07-01</time>
         <p class="tag-post-excerpt">Title 2  誰でも簡単においしく作れるレシピ動画を毎日お届けします</p>
-      </div>
-    </a>
-  </li>
-  <li class="tag-post-card">
-    <a href="/posts/blog1" class="tag-post-link">
-    <div class="tag-post-thumbnail-wrapper">
-        <img src="/images/icon.jpeg" alt="Test Post 1 サムネイル" class="tag-post-thumbnail" />
-      </div>
-      <div class="tag-post-content">
-        <h3 class="tag-post-title">Test Post 1</h3>
-        <time class="tag-post-date">2025-07-01</time>
-        <p class="tag-post-excerpt">Title 1  これからの社会を、もっと心地よい場所にしていくために。 エブリーはまず、社会に暮らすひとりひとりを大切にしたい。</p>
       </div>
     </a>
   </li>
